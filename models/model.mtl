@@ -1,0 +1,9 @@
+newmtl EPTexture
+illum 1
+d 1.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Tf 1.0 1.0 1.0
+map_Kd null
+Pr 1.0
+Ke 0.0 0.0 0.0

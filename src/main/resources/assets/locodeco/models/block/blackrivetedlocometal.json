@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "locodeco:block/black_riveted_locometal",
+    "up": "locodeco:block/black_riveted_locometal",
+    "north": "locodeco:block/black_riveted_locometal",
+    "east": "locodeco:block/black_riveted_locometal",
+    "south": "locodeco:block/black_riveted_locometal",
+    "west": "locodeco:block/black_riveted_locometal",
+    "particle": "locodeco:block/black_riveted_locometal"
+  },
+  "render_type": "solid"
+}

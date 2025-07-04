@@ -1,0 +1,534 @@
+{
+  "mod_elements": [
+    {
+      "name": "Whitebrasslocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitebrasslocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/models/item/whitebrasslocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/WhitebrasslocometalBlock.java",
+          "src/main/resources/assets/locodeco/models/block/whitebrasslocometal.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/whitebrasslocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/whitebrasslocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Whitecopperlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whitecopperlocometal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/darkoss/locodeco/block/WhitecopperlocometalBlock.java",
+          "src/main/resources/data/locodeco/loot_table/blocks/whitecopperlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/whitecopperlocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/whitecopperlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/whitecopperlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Whiteironlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whiteironlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/loot_table/blocks/whiteironlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/whiteironlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/whiteironlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/WhiteironlocometalBlock.java",
+          "src/main/resources/assets/locodeco/blockstates/whiteironlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Whiterivetedlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whiterivetedlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/models/block/whiterivetedlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/whiterivetedlocometal.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/whiterivetedlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/WhiterivetedlocometalBlock.java",
+          "src/main/resources/assets/locodeco/blockstates/whiterivetedlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Whiteslashedlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "whiteslashedlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/models/item/whiteslashedlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/WhiteslashedlocometalBlock.java",
+          "src/main/resources/assets/locodeco/blockstates/whiteslashedlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/whiteslashedlocometal.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/whiteslashedlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Redbrasslocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redbrasslocometal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/darkoss/locodeco/block/RedbrasslocometalBlock.java",
+          "src/main/resources/assets/locodeco/models/block/redbrasslocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/redbrasslocometal.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/redbrasslocometal.json",
+          "src/main/resources/assets/locodeco/models/item/redbrasslocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Redcopperlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redcopperlocometal",
+      "metadata": {
+        "files": [
+          "src/main/java/net/darkoss/locodeco/block/RedcopperlocometalBlock.java",
+          "src/main/resources/data/locodeco/loot_table/blocks/redcopperlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/redcopperlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/redcopperlocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/redcopperlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Redironlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redironlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/loot_table/blocks/redironlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/redironlocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/redironlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/redironlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/RedironlocometalBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Redrivetedlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redrivetedlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/loot_table/blocks/redrivetedlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/RedrivetedlocometalBlock.java",
+          "src/main/resources/assets/locodeco/models/block/redrivetedlocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/redrivetedlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/redrivetedlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Redslashedlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "redslashedlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/models/item/redslashedlocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/redslashedlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/RedslashedlocometalBlock.java",
+          "src/main/resources/data/locodeco/loot_table/blocks/redslashedlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/redslashedlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackbrasslocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackbrasslocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/blockstates/blackbrasslocometal.json",
+          "src/main/resources/assets/locodeco/models/item/blackbrasslocometal.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/blackbrasslocometal.json",
+          "src/main/resources/assets/locodeco/models/block/blackbrasslocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/BlackbrasslocometalBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Blackcopperlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackcopperlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/loot_table/blocks/blackcopperlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/BlackcopperlocometalBlock.java",
+          "src/main/resources/assets/locodeco/blockstates/blackcopperlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/blackcopperlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/blackcopperlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackironlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackironlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/models/item/blackironlocometal.json",
+          "src/main/resources/assets/locodeco/blockstates/blackironlocometal.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/blackironlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/blackironlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/BlackironlocometalBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Blackrivetedlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackrivetedlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/loot_table/blocks/blackrivetedlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/BlackrivetedlocometalBlock.java",
+          "src/main/resources/assets/locodeco/blockstates/blackrivetedlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/blackrivetedlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/blackrivetedlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Blackslashedlocometal",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blackslashedlocometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/blockstates/blackslashedlocometal.json",
+          "src/main/resources/assets/locodeco/models/block/blackslashedlocometal.json",
+          "src/main/java/net/darkoss/locodeco/block/BlackslashedlocometalBlock.java",
+          "src/main/resources/data/locodeco/loot_table/blocks/blackslashedlocometal.json",
+          "src/main/resources/assets/locodeco/models/item/blackslashedlocometal.json"
+        ]
+      }
+    },
+    {
+      "name": "LocoDeco",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "loco_deco",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Locometal",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_1.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_4.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal5",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_5.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal6",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_6",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_6.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal7",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_7",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_7.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_8.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal9",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_9",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_9.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal10",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_10.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal11",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_11",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_11.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal12",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_12",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_12.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal13",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_13",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_13.json"
+        ]
+      }
+    },
+    {
+      "name": "Locometal14",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "locometal_14",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/locodeco/recipe/locometal_14.json"
+        ]
+      }
+    },
+    {
+      "name": "BrassClearGlass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brass_clear_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/blockstates/brass_clear_glass.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/brass_clear_glass.json",
+          "src/main/java/net/darkoss/locodeco/block/BrassClearGlassBlock.java",
+          "src/main/resources/assets/locodeco/models/block/brass_clear_glass.json",
+          "src/main/resources/assets/locodeco/models/item/brass_clear_glass.json"
+        ]
+      }
+    },
+    {
+      "name": "Copperclearglass",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperclearglass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/locodeco/blockstates/copperclearglass.json",
+          "src/main/java/net/darkoss/locodeco/block/CopperclearglassBlock.java",
+          "src/main/resources/assets/locodeco/models/item/copperclearglass.json",
+          "src/main/resources/data/locodeco/loot_table/blocks/copperclearglass.json",
+          "src/main/resources/assets/locodeco/models/block/copperclearglass.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:Blackslashedlocometal",
+      "~CUSTOM:Blackrivetedlocometal",
+      "~CUSTOM:Blackironlocometal",
+      "~CUSTOM:Blackcopperlocometal",
+      "~CUSTOM:Blackbrasslocometal",
+      "~CUSTOM:Redslashedlocometal",
+      "~CUSTOM:Redrivetedlocometal",
+      "~CUSTOM:Redironlocometal",
+      "~CUSTOM:Redcopperlocometal",
+      "~CUSTOM:Redbrasslocometal",
+      "~CUSTOM:Whiteslashedlocometal",
+      "~CUSTOM:Whiterivetedlocometal",
+      "~CUSTOM:Whiteironlocometal",
+      "~CUSTOM:Whitecopperlocometal",
+      "~CUSTOM:Whitebrasslocometal"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.locodeco.whiteslashedlocometal": "White Slashed Locometal",
+      "block.locodeco.whitebrasslocometal": "White Brassed Locometal",
+      "block.locodeco.blackslashedlocometal": "Black Slashed Locometal",
+      "block.locodeco.whitecopperlocometal": "White Coppered Locometal",
+      "block.locodeco.whiteironlocometal": "White Iron Locometal",
+      "block.locodeco.redironlocometal": "Red Iron Locometal",
+      "block.locodeco.blackcopperlocometal": "Black Coppered Locometal",
+      "block.locodeco.brass_clear_glass": "Brass Clear Glass",
+      "block.locodeco.whiterivetedlocometal": "White Riveted Locometal",
+      "block.locodeco.redcopperlocometal": "Red Coppered Locometal",
+      "block.locodeco.redbrasslocometal": "Red Brassed Locometal",
+      "item_group.locodeco.loco_deco": "Loco Deco",
+      "block.locodeco.copperclearglass": "Brass Clear Glass",
+      "block.locodeco.blackrivetedlocometal": "Black Riveted Locometal",
+      "block.locodeco.blackbrasslocometal": "Black Brassed Locometal",
+      "block.locodeco.redrivetedlocometal": "Red Riveted Locometal",
+      "block.locodeco.redslashedlocometal": "Red Slashed Locometal",
+      "block.locodeco.blackironlocometal": "Black Iron Locometal"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "locodeco",
+    "modName": "locodeco",
+    "version": "0.5 Alpha",
+    "author": "AlibabaSama",
+    "websiteURL": "https://minecraft.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "create",
+      "geckolib"
+    ],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "LocoMetal Blocks \"steam n rails\"",
+    "modElementsPackage": "net.darkoss.locodeco"
+  },
+  "mcreatorVersion": 202500113416
+}

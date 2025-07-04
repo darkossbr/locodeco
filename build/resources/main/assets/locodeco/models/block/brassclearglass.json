@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "locodeco:block/brass_clear_glass_casing",
+    "up": "locodeco:block/brass_clear_glass_casing",
+    "north": "locodeco:block/brass_clear_glass_casing",
+    "east": "locodeco:block/brass_clear_glass_casing",
+    "south": "locodeco:block/brass_clear_glass_casing",
+    "west": "locodeco:block/brass_clear_glass_casing",
+    "particle": "locodeco:block/brass_clear_glass_casing"
+  },
+  "render_type": "translucent"
+}

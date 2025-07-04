@@ -1,0 +1,19 @@
+{
+    "values": [
+        "locodeco:blackbrasslocometal",
+        "locodeco:blackcopperlocometal",
+        "locodeco:blackironlocometal",
+        "locodeco:blackrivetedlocometal",
+        "locodeco:blackslashedlocometal",
+        "locodeco:redbrasslocometal",
+        "locodeco:redcopperlocometal",
+        "locodeco:redironlocometal",
+        "locodeco:redrivetedlocometal",
+        "locodeco:redslashedlocometal",
+        "locodeco:whitebrasslocometal",
+        "locodeco:whitecopperlocometal",
+        "locodeco:whiteironlocometal",
+        "locodeco:whiterivetedlocometal",
+        "locodeco:whiteslashedlocometal"
+    ]
+}

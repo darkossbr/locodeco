@@ -1,0 +1,9 @@
+{
+  "fusion": {
+    "type": "connecting"
+  },
+  "render": {
+    "transparent": true,
+    "render_layer": "translucent"
+  }
+}
